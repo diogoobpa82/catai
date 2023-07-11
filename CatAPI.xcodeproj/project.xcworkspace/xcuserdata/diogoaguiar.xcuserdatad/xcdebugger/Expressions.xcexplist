@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CatBreedDetailVC.favAction(newState:):CatBreedDetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favCatBreeds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CatBreedDetailVC.collectionView(_:numberOfItemsInSection:):CatBreedDetailVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "catBreed.images.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ApiCalls.getBreeds():ApiCalls.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Bundle.main.url(forResource: &quot;myJson&quot;, withExtension: &quot;JSON&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
